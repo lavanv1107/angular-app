@@ -2,25 +2,61 @@
   <div class="container">
     <div class="content">
       <h1 class="title">Latest Cryptocurrency News</h1>
-      <div class="box" *ngFor="let articles of news">
+      <div class="box" *ngFor="let article of news">
         <div class="columns">
           <div class="column is-5">
-            <figure class="image">
-              <img [src]="articles.image_url" alt="Placeholder image" />
+            <figure class="image is-16by9">
+              <img [src]="article.image_url" alt="Placeholder image" />
             </figure>
           </div>
           <div class="column">
             <div class="content">
-              <h2 class="title">{{ articles.title }}</h2>
-              <h4 class="subtitle">{{ articles.source }}</h4>
-              <p>{{ articles.description }}</p>
+              <h2 class="title">{{ article.title }}</h2>
+              <h4 class="subtitle">{{ article.source }}</h4>
+              <p>
+                Published on {{ article.published_at | date : "MM/dd/yyyy" }} at
+                {{ article.published_at | date : "shortTime" }}
+              </p>
+              <p>{{ article.description }}</p>
               <br />
-              <span class="icon-text">
-                <span class="icon">
-                  <i class="fa-brands fa-readme"></i>
-                </span>
-                <a [href]="articles.url" target="_blank">Read more</a>
-              </span>
+              <nav class="level is-mobile">
+                <div class="level-item has-text-centered">
+                  <div>
+                    <a [href]="article.url" target="_blank">
+                      <span class="icon-text">
+                        <span class="icon">
+                          <fa-icon [icon]="faReadme"></fa-icon>
+                        </span>
+                        <span>Read</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <a href="">
+                      <span class="icon-text">
+                        <span class="icon">
+                          <fa-icon [icon]="faBookmark"></fa-icon>
+                        </span>
+                        <span>Bookmark</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+                <div class="level-item has-text-centered">
+                  <div>
+                    <a href="">
+                      <span class="icon-text">
+                        <span class="icon">
+                          <fa-icon [icon]="faShare"></fa-icon>
+                        </span>
+                        <span>Share</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </nav>
             </div>
           </div>
         </div>

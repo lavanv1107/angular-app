@@ -9,6 +9,7 @@ import { AboutComponent } from './components/about/about.component';
 import { CurrencyListComponent } from './components/currency-list/currency-list.component';
 import { CurrencyDetailsComponent } from './components/currency-details/currency-details.component';
 import { ChartComponent } from './components/chart/chart.component';
+
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
