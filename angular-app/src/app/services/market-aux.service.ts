@@ -13,7 +13,7 @@ export class MarketAuxService {
   constructor(private http: HttpClient) {}
 
   getTopNews(): Observable<any> {
-    const url = `${this.apiUrl}/news/top?apiKey=${this.apiKey}`;
+    const url = `${this.apiUrl}/news/all?countries=us&language=en&api_token=${this.apiKey}`;
     return this.http.get<any>(url);
   }
 }
