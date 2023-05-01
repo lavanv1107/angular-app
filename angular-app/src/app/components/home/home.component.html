@@ -1,1 +1,27 @@
-<p>home works!</p>
+<section class="hero is-medium is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">Top Finance News</h1>
+      <div class="columns is-multiline">
+        <div class="column is-one-third" *ngFor="let news of topNews">
+          <div class="card">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="title is-4">{{ news.title }}</p>
+                  <p class="subtitle is-6">{{ news.source.name }}</p>
+                </div>
+              </div>
+
+              <div class="content">
+                {{ news.description }}
+                <br />
+                <a [href]="news.url" target="_blank">Read more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
