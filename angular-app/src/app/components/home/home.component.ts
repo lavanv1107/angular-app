@@ -8,14 +8,14 @@ import { firstValueFrom } from 'rxjs';
   styleUrls: ['./home.component.css'],
 })
 export class HomeComponent implements OnInit {
-  topNews: any[] = [];
+  news: any[] = [];
 
   constructor(private marketAuxService: MarketAuxService) {}
 
   async ngOnInit() {
     try {
-      const data = await firstValueFrom(this.marketAuxService.getTopNews());
-      this.topNews = data.data;
+      const data = await firstValueFrom(this.marketAuxService.getNews());
+      this.news = data.data;
     } catch (error) {
       console.log('Error fetching top news from MarketAux:', error);
     }
