@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit {
   async ngOnInit() {
     try {
       const data = await firstValueFrom(this.marketAuxService.getTopNews());
-      this.topNews = data.articles;
+      this.topNews = data.data;
     } catch (error) {
       console.log('Error fetching top news from MarketAux:', error);
     }
