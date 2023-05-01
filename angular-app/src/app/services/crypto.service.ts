@@ -1,13 +1,14 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { environment } from '../environments/environment';
 
 @Injectable({
   providedIn: 'root',
 })
 export class CryptoService {
   private apiUrl = 'https://rest.coinapi.io/v1'; // The API base URL
-  private apiKey = 'YOUR_API_KEY_HERE'; // Your CoinAPI.io API key
+  private apiKey = environment.coinAPIKey; // Your CoinAPI.io API key
 
   constructor(private http: HttpClient) {}
 
