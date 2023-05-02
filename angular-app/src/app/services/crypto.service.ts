@@ -37,7 +37,7 @@ export class CryptoService {
     startDate: string,
     endDate: string
   ): Observable<any> {
-    const url = `${this.apiUrl}/ohlcv/${cryptoSymbol}/${currencySymbol}/history?period_id=1DAY&time_start=${startDate}&time_end=${endDate}`;
+    const url = `${this.apiUrl}/exchangerate/${cryptoSymbol}/${currencySymbol}/history?period_id=1DAY&time_start=${startDate}&time_end=${endDate}`;
     const headers = this.getHeaders();
     return this.http.get<any>(url, headers);
   }
