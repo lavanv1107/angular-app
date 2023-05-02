@@ -10,8 +10,10 @@ import { CurrencyListComponent } from './components/currency-list/currency-list.
 import { CurrencyDetailsComponent } from './components/currency-details/currency-details.component';
 import { ChartComponent } from './components/chart/chart.component';
 
-import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     CurrencyDetailsComponent,
     ChartComponent,
   ],
-  imports: [BrowserModule, HttpClientModule, FontAwesomeModule, BrowserAnimationsModule],
+  imports: [
+    BrowserModule,
+    HttpClientModule,
+    BrowserAnimationsModule,
+    MatToolbarModule,
+    MatButtonModule,
+    MatIconModule,
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })
