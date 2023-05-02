@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CryptoService } from '../../services/crypto.service';
+
 @Component({
   selector: 'app-header',
   templateUrl: './header.component.html',
