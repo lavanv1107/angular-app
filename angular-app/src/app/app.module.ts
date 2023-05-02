@@ -1,45 +1,50 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './components/header/header.component';
+import { NavComponent } from './components/nav/nav.component';
+import { NewsComponent } from './components/news/news.component';
 import { AboutComponent } from './components/about/about.component';
 import { CurrencyListComponent } from './components/currency-list/currency-list.component';
 import { CurrencyDetailsComponent } from './components/currency-details/currency-details.component';
 import { ChartComponent } from './components/chart/chart.component';
 
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LayoutModule } from '@angular/cdk/layout';
+
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
-import { NewsComponent } from './components/news/news.component';
-import { MatGridListModule } from '@angular/material/grid-list';
 import { MatCardModule } from '@angular/material/card';
 import { MatMenuModule } from '@angular/material/menu';
-import { LayoutModule } from '@angular/cdk/layout';
+import { MatSidenavModule } from '@angular/material/sidenav';
+import { MatListModule } from '@angular/material/list';
+import { MatChipsModule } from '@angular/material/chips';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent,
     AboutComponent,
     CurrencyListComponent,
     CurrencyDetailsComponent,
     ChartComponent,
     NewsComponent,
+    NavComponent,
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     BrowserAnimationsModule,
+    LayoutModule,
     MatToolbarModule,
     MatButtonModule,
     MatIconModule,
-    MatGridListModule,
     MatCardModule,
     MatMenuModule,
-    LayoutModule,
+    MatSidenavModule,
+    MatListModule,
+    MatChipsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
