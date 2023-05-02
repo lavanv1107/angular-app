@@ -2,9 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { MarketAuxService } from '../../services/market-aux.service';
 import { firstValueFrom } from 'rxjs';
 
-import { faReadme } from '@fortawesome/free-brands-svg-icons';
-import { faBookmark, faShare } from '@fortawesome/free-solid-svg-icons';
-
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -23,8 +20,4 @@ export class HomeComponent implements OnInit {
       console.log('Error fetching top news from MarketAux:', error);
     }
   }
-
-  faReadme = faReadme;
-  faBookmark = faBookmark;
-  faShare = faShare;
 }
