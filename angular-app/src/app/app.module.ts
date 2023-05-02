@@ -11,6 +11,7 @@ import { CurrencyDetailsComponent } from './components/currency-details/currency
 import { ChartComponent } from './components/chart/chart.component';
 
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     CurrencyDetailsComponent,
     ChartComponent,
   ],
-  imports: [BrowserModule, HttpClientModule, FontAwesomeModule],
+  imports: [BrowserModule, HttpClientModule, FontAwesomeModule, BrowserAnimationsModule],
   providers: [],
   bootstrap: [AppComponent],
 })
