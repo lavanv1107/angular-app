@@ -1,7 +1,4 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { NavComponent } from './components/nav/nav.component';
@@ -11,18 +8,22 @@ import { CurrencyListComponent } from './components/currency-list/currency-list.
 import { CurrencyDetailsComponent } from './components/currency-details/currency-details.component';
 import { ChartComponent } from './components/chart/chart.component';
 
-import { LayoutModule } from '@angular/cdk/layout';
+import { SentenceLimitPipe } from './pipes/sentence-limit.pipe';
 
-import { MatToolbarModule } from '@angular/material/toolbar';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HttpClientModule } from '@angular/common/http';
+
+import { MatBottomSheetModule } from '@angular/material/bottom-sheet';
 import { MatButtonModule } from '@angular/material/button';
-import { MatIconModule } from '@angular/material/icon';
 import { MatCardModule } from '@angular/material/card';
+import { MatChipsModule } from '@angular/material/chips';
+import { MatIconModule } from '@angular/material/icon';
+import { MatListModule } from '@angular/material/list';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatSidenavModule } from '@angular/material/sidenav';
-import { MatListModule } from '@angular/material/list';
-import { MatChipsModule } from '@angular/material/chips';
-
-import { SentenceLimitPipe } from './pipes/sentence-limit.pipe';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatToolbarModule } from '@angular/material/toolbar';
 
 @NgModule({
   declarations: [
@@ -37,17 +38,18 @@ import { SentenceLimitPipe } from './pipes/sentence-limit.pipe';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule,
     BrowserAnimationsModule,
-    LayoutModule,
-    MatToolbarModule,
+    HttpClientModule,
+    MatBottomSheetModule,
     MatButtonModule,
-    MatIconModule,
     MatCardModule,
+    MatChipsModule,
+    MatIconModule,
+    MatListModule,
     MatMenuModule,
     MatSidenavModule,
-    MatListModule,
-    MatChipsModule,
+    MatSnackBarModule,
+    MatToolbarModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
