@@ -22,6 +22,8 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatChipsModule } from '@angular/material/chips';
 
+import { SentenceLimitPipe } from './pipes/sentence-limit.pipe';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,6 +33,7 @@ import { MatChipsModule } from '@angular/material/chips';
     ChartComponent,
     NewsComponent,
     NavComponent,
+    SentenceLimitPipe,
   ],
   imports: [
     BrowserModule,
