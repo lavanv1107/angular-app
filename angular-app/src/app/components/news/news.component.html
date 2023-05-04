@@ -1,31 +1,72 @@
-<div class="grid-container">
-  <h1 class="mat-h1">Latest Cryptocurrency News</h1>
-  <mat-grid-list cols="1" rowHeight="auto">
-    <mat-grid-tile *ngFor="let article of news">
-      <mat-card class="news-card">
-        <mat-card-header>
-          <div
-            mat-card-avatar
-            class="news-source-image"
-            [style.backgroundImage]="'url(' + article.image_url + ')'"
-          ></div>
-          <mat-card-title>{{ article.title }}</mat-card-title>
-          <mat-card-subtitle
-            >{{ article.source }} |
-            {{
-              article.published_at | date : "MM/dd/yyyy 'at' h:mm a"
-            }}</mat-card-subtitle
-          >
-        </mat-card-header>
-        <mat-card-content>
-          <p>{{ article.description }}</p>
-        </mat-card-content>
-        <mat-card-actions>
-          <a [href]="article.url" target="_blank">Read</a>
-          <button mat-button color="primary">Bookmark</button>
-          <button mat-button color="primary">Share</button>
-        </mat-card-actions>
-      </mat-card>
-    </mat-grid-tile>
-  </mat-grid-list>
-</div>
+<section class="hero">
+  <div class="hero-body">
+    <h1 class="mat-headline-5">News</h1>
+    <p class="mat-subtitle-1">
+      The Latest Headlines in Cryptocurrency from MarketAux
+    </p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-half" [@cardAnimation]>
+        <div class="block" *ngFor="let article of news">
+          <!-- *ngFor="let article of news[1].slice(0, 3)" -->
+          <mat-card>
+            <img mat-card-image [src]="article.image_url" />
+            <div class="block">
+              <mat-card-header>
+                <mat-chip-listbox>
+                  <mat-chip *ngFor="let entities of article.entities">{{
+                    entities.name
+                  }}</mat-chip>
+                </mat-chip-listbox>
+              </mat-card-header>
+              <mat-card-header>
+                <mat-card-title>{{ article.title }}</mat-card-title>
+                <mat-card-subtitle>{{ article.source }}</mat-card-subtitle>
+              </mat-card-header>
+            </div>
+            <div class="block">
+              <mat-card-content>
+                <p class="mat-caption">
+                  {{
+                    article.published_at
+                      | date : "EEE, MMM d, y 'at' h:mm a zzz"
+                  }}
+                </p>
+                <p class="mat-body-2">
+                  {{ article.description | sentenceLimit }}
+                </p>
+                <a
+                  class="mat-subtitle-2"
+                  href="{{ article.url }}"
+                  target="_blank"
+                >
+                  Read More »
+                </a>
+              </mat-card-content>
+            </div>
+            <mat-card-content>
+              <mat-divider></mat-divider>
+            </mat-card-content>
+            <mat-card-actions class="article-actions">
+              <button mat-icon-button>
+                <mat-icon>favorite_border</mat-icon>
+              </button>
+              <button
+                mat-icon-button
+                (click)="openSnackBar('Bookmark Saved', 'OK')"
+              >
+                <mat-icon>bookmark_border</mat-icon>
+              </button>
+              <button mat-icon-button>
+                <mat-icon>share</mat-icon>
+              </button>
+            </mat-card-actions>
+          </mat-card>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
