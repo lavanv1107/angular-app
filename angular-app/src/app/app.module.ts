@@ -2,11 +2,9 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { NavComponent } from './components/nav/nav.component';
-import { ExchangeRateComponent } from './components/exchange-rate/exchange-rate.component';
+import { CurrencyIndexComponent } from './components/currency-index/currency-index.component';
 import { NewsComponent } from './components/news/news.component';
 import { AboutComponent } from './components/about/about.component';
-import { CurrencyListComponent } from './components/currency-list/currency-list.component';
-import { CurrencyDetailsComponent } from './components/currency-details/currency-details.component';
 import { ChartComponent } from './components/chart/chart.component';
 
 import { SentenceLimitPipe } from './pipes/sentence-limit.pipe';
@@ -27,18 +25,18 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatToolbarModule } from '@angular/material/toolbar';
 
 import { AgGridModule } from 'ag-grid-angular';
+import { ExchangeRateComponent } from './components/exchange-rate/exchange-rate.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
-    ExchangeRateComponent,
-    CurrencyListComponent,
-    CurrencyDetailsComponent,
+    CurrencyIndexComponent,
     ChartComponent,
     NewsComponent,
     NavComponent,
     SentenceLimitPipe,
+    ExchangeRateComponent,
   ],
   imports: [
     BrowserModule,
