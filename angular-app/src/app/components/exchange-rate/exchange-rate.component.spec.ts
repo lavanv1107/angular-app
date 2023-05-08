@@ -6,12 +6,10 @@ describe('ExchangeRateComponent', () => {
   let component: ExchangeRateComponent;
   let fixture: ComponentFixture<ExchangeRateComponent>;
 
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [ ExchangeRateComponent ]
-    })
-    .compileComponents();
-
+  beforeEach(() => {
+    TestBed.configureTestingModule({
+      declarations: [ExchangeRateComponent]
+    });
     fixture = TestBed.createComponent(ExchangeRateComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
