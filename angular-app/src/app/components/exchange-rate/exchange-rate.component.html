@@ -1,27 +1,117 @@
-<section class="hero">
-  <div class="hero-body">
-    <h1 class="mat-headline-5">Exchange Rates</h1>
-    <p class="mat-subtitle-1">
-      The Latest Headlines in Cryptocurrency from MarketAux
-    </p>
-  </div>
-</section>
-<section class="section">
-  <div class="container">
-    <div class="columns is-centered">
+<mat-accordion>
+  <mat-expansion-panel
+    disabled
+    [expanded]="step === 0"
+    (opened)="setStep(0)"
+    hideToggle
+  >
+    <mat-expansion-panel-header>
+      <mat-panel-title
+        [style.color]="
+          selectPanelClosed == false ? 'rgba(0, 0, 0, 0.87)' : 'inherit'
+        "
+      >
+        Currency Selection
+      </mat-panel-title>
+    </mat-expansion-panel-header>
+    <div class="columns">
       <div class="column is-half">
-        <ag-grid-angular
-          style="width: 100%; height: 400px"
-          class="ag-theme-balham"
-          [rowData]="rowData"
-          [columnDefs]="columnDefs"
-          [defaultColDef]="defaultColDef"
-          [suppressHorizontalScroll]="true"
-          [pagination]="true"
-          [paginationPageSize]="100"
+        <mat-panel-description
+          class="exchange-rate-desc has-text-centered-mobile"
         >
-        </ag-grid-angular>
+          Enter valid currencies from the provided index
+        </mat-panel-description>
+      </div>
+      <div class="column">
+        <form [formGroup]="exchangeRateForm">
+          <div class="currency-selection">
+            <mat-form-field appearance="fill">
+              <input
+                matInput
+                formControlName="fromCurrency"
+                (input)="onInputFrom($event)"
+              />
+            </mat-form-field>
+            <div class="block">
+              <mat-icon class="arrow-icon">arrow_forward</mat-icon>
+            </div>
+            <mat-form-field appearance="fill">
+              <input
+                matInput
+                formControlName="toCurrency"
+                (input)="onInputTo($event)"
+              />
+            </mat-form-field>
+          </div>
+        </form>
       </div>
     </div>
-  </div>
-</section>
+    <mat-action-row>
+      <button mat-button color="primary" (click)="nextStep()">Next</button>
+    </mat-action-row>
+  </mat-expansion-panel>
+  <mat-expansion-panel
+    disabled
+    [expanded]="step === 1"
+    (opened)="setStep(1)"
+    hideToggle
+  >
+    <mat-expansion-panel-header>
+      <mat-panel-title
+        [style.color]="
+          exchangePanelClosed == true ? 'inherit' : 'rgba(0, 0, 0, 0.87)'
+        "
+      >
+        Currency Exchange
+      </mat-panel-title>
+    </mat-expansion-panel-header>
+    <div class="columns">
+      <div class="column is-half has-text-centered-mobile">
+        <h1>
+          {{ exchangeRate | number : "1.4-4" }}&nbsp;{{
+            exchangeRateForm.get("toCurrency")?.value
+          }}
+        </h1>
+        <p>{{ date }}</p>
+        <p>{{ time }}</p>
+      </div>
+      <div class="column">
+        <form [formGroup]="exchangeRateForm">
+          <div class="currency-exchange">
+            <div>
+              <mat-form-field appearance="fill">
+                <input
+                  matInput
+                  type="number"
+                  formControlName="fromAmount"
+                  (input)="calculateToAmount()"
+                  (keypress)="onKeyPress($event)"
+                />
+                <h4 matTextSuffix>
+                  &nbsp;{{ exchangeRateForm.get("fromCurrency")?.value }}
+                </h4>
+              </mat-form-field>
+            </div>
+            <div>
+              <mat-form-field appearance="fill">
+                <input
+                  matInput
+                  type="number"
+                  formControlName="toAmount"
+                  (input)="calculateFromAmount()"
+                  (keypress)="onKeyPress($event)"
+                />
+                <h4 matTextSuffix>
+                  &nbsp;{{ exchangeRateForm.get("toCurrency")?.value }}
+                </h4>
+              </mat-form-field>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    <mat-action-row>
+      <button mat-button color="warn" (click)="prevStep()">Previous</button>
+    </mat-action-row>
+  </mat-expansion-panel>
+</mat-accordion>

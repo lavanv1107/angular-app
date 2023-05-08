@@ -20,6 +20,8 @@
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
     "@angular/router": "^16.0.0",
+    "@ng-icons/bootstrap-icons": "^25.0.1",
+    "@ng-icons/core": "^25.0.1",
     "ag-grid-angular": "^29.3.3",
     "ag-grid-community": "^29.3.3",
     "bulma": "^0.9.4",

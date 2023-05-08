@@ -1,0 +1,1121 @@
+{
+  "meta": {
+    "found": 69,
+    "returned": 10,
+    "limit": 10,
+    "page": 1
+  },
+  "data": [
+    {
+      "uuid": "956dd54a-93eb-40b0-b072-4b86ad5ad99d",
+      "title": "Healthcare & Facebook Propel My Portfolio To New Highs In April",
+      "description": "My portfolio, built specifically for my retirement ~20 years from now, features growth, dividends and risk stocks for. See how it performed in April 2023.",
+      "keywords": "",
+      "snippet": "imaginima\n\nIt is my firm belief that 80% of money managers can't outperform the S&P 500 Index (SP500) over time due primarily to the fees they charge their clie...",
+      "url": "https://seekingalpha.com/article/4598694-healthcare-and-facebook-help-propel-25-stock-424k-portfolio-new-highs-april",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362711093/image_1362711093.jpg?io=getty-c-w1536",
+      "language": "en",
+      "published_at": "2023-05-02T03:53:08.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "BTCUSD",
+          "name": "Bitcoin USD",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 9.146355,
+          "sentiment_score": 0,
+          "highlights": [
+            {
+              "highlight": "<em>Bitcoin</em> (<em>BTC</em>-<em>USD</em>) is digital gold in my opinion and the future of finance as a potential bedfellow to or eventual replacement of not only the U.S. dollar, but to all fiat money in the coming decades.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 9.373729,
+          "sentiment_score": 0.608371,
+          "highlights": [
+            {
+              "highlight": "<em>Bitcoin</em> (<em>BTC</em>-USD) is digital gold in my opinion and the future of finance as a potential bedfellow to or eventual replacement of not only the U.S. dollar, but to all fiat money in the coming decades.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "I plan on holding <em>Bitcoin</em> stock for the next 20+ years and to very rarely if ever sell shares, so month-to-month performance means little to me at this point. I plan on it being a long-term top 3 stock position in my portfolio at all times and will consider adding significant shares to my position if the coin drops below the $15K level.",
+              "sentiment": 0.7184,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "I added 100 more shares of Grayscale <em>Bitcoin</em> Trust (OTC:GBTC) stock again in August of 2022 as it continues to hover around $20k a coin. A much bigger buy of <em>Bitcoin</em> in October as I added an additional 700 shares as I try to build this position back up to one of my largest positions.",
+              "sentiment": 0.7884,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Short term pain for <em>Bitcoin</em> with long term gains as I believe <em>Bitcoin</em> continues to show why it is best in class in the space as other coins continue to zero out.",
+              "sentiment": 0.5106,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "There have been some massive recent gains in <em>Bitcoin</em> prices as the Fed looks to potentially be leveling off interest rate spikes sooner than the market was forecasting due to the March 2023 banking crisis. As one of my largest positions, I hope the trend continues as <em>Bitcoin</em> hovers around $30,000 a coin.\n\nACPS = $22.84\n\nData by YCharts\n\n14.",
+              "sentiment": 0.4939,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Wanted another banking stock to complement my overly large <em>bitcoin</em> stock position that could help balance the sector. With interest rates continuing to rise banks like Truist have good long-term upside and appear to me to be great values at this time.",
+              "sentiment": 0.9509,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "My top 10 Holdings and Percentage of my Portfolio\n\nStock Sector % Portfolio Petrobras Energy 12.5% <em>Bitcoin</em> Financial 10.8% Facebook Com Serv 8.5% Advanced Micro Devices Info Tech 8.4% Charles Schwab Financials 5.9% Arrowhead Pharmaceuticals Health Care 5.9% Disney Com Serv 2.6% Jacobs Engineering Industrials 2.5% Tesla Con Disc 2.3% QUALCOMM Info Tech",
+              "sentiment": 0.7964,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "257da107-49bd-45a8-8a8c-70b697bc03e0",
+      "title": "BitCON…It’s All in the Narrative",
+      "description": "Quick summary: Today’s topic is BitCON…no, that’s not a spelling mistake. The fraudsters who set-up the crypto scam were very clever in their word choice…cryptocurrency. This stuff was not and NEVER, EVER will be a medium of exchange. If you want to buy groceries, pay taxes, make a loan repayment, fill up your car, pay your power bill etc. — all the things we do in the real world — you need a medium of exchange the government agencies and service providers will accept. Cryptos ain’t it…",
+      "keywords": "",
+      "snippet": "Quick summary: Today’s topic is BitCON…no, that’s not a spelling mistake. The fraudsters who set-up the crypto scam were very clever in their word choice?...",
+      "url": "https://www.dailyreckoning.com.au/bitconits-all-in-the-narrative/2023/05/02/",
+      "image_url": "https://www.dailyreckoning.com.au/wp-content/uploads/2019/01/Investing-in-second-generation-cryptos.jpg",
+      "language": "en",
+      "published_at": "2023-05-02T03:10:56.000000Z",
+      "source": "dailyreckoning.com.au",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 30.559715,
+          "sentiment_score": -0.10862,
+          "highlights": [
+            {
+              "highlight": "<em>Bitcoin</em> is the latest in a long list of failed experiments\n\nWhile <em>Bitcoin</em> captured the imaginations of those wanting to be freed from the shackles of the centralised money system controlled by corrupt officials, it’s only the latest in a long line of ‘alternative currency’ experiments that started back in the 1970s.",
+              "sentiment": -0.1531,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "They all failed…and, yes, that includes <em>Bitcoin</em>.\n\nWhy?\n\nBecause <em>Bitcoin</em> [<em>BTC</em>] and Ethereum [ETH] cannot be applied commercially.",
+              "sentiment": 0.4019,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em> does, I think it’s seven transactions per second. Which is nothing compared to Visa or very similar systems. Ethereum’s a little faster, but not much. And so when you’re talking about using this at the web scale, you start to run into problems with speed. It’s also very expensive.’",
+              "sentiment": -0.5499,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "In January 2023, CoinDesk alerted us to just how much market share Binance now has:\n\nAccording to the article (emphasis added):\n\n‘Binance’s market share of <em>bitcoin</em> (<em>BTC</em>) trading volume rose to 92% by the end of 2022, according to Arcane Research.",
+              "sentiment": 0.5267,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "“After lifting trading fees for its <em>BTC</em> spot pairs this summer, Binance completely overtook all market share in the spot market.”’\n\n‘Binance is the crypto market’…thank Heavens the company has impeccable ethics and business practices…\n\nJust kidding.",
+              "sentiment": 0.6486,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The CFTC accusations continue (emphasis added):\n\n‘…does not sufficiently contest the presence of possible sources of fraud and manipulation in the <em>bitcoin</em> spot market generally that the Commission has raised in previous orders.",
+              "sentiment": -0.8074,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Such possible sources have included (1) “wash” trading, (2) persons with a dominant position in <em>bitcoin</em> manipulating <em>bitcoin</em> pricing, (3) hacking of the <em>bitcoin</em> network and trading platforms, (4) malicious control of the <em>bitcoin</em> network, (5) trading based on material, non-public information, including the dissemination of false and misleading information",
+              "sentiment": -0.6369,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": ", (6) manipulative activity involving the purported “stablecoin” Tether (USDT), and (7) fraud and manipulation at <em>bitcoin</em> trading platforms.’",
+              "sentiment": -0.7184,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "As reported in Almost Daily Grant’s on 11 April 2023 (emphasis added):\n\n‘<em>Bitcoin</em> logged a bullish milestone today, blowing past the $30,000 mark for the first time since June of last year.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Yesterday, the top 11 largest <em>bitcoin</em> transactions all featured 2,000 tokens moving from existing on-exchange addresses to brand new off-exchange ones, with that combined tally of 22,000 bitcoins equivalent to just over $700 million at current prices.",
+              "sentiment": 0.2023,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:ETH",
+          "name": "Ethereum",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 21.028225,
+          "sentiment_score": 0,
+          "highlights": [
+            {
+              "highlight": "Because Bitcoin [BTC] and <em>Ethereum</em> [<em>ETH</em>] cannot be applied commercially.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:USDT",
+          "name": "Tether",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 24.722786,
+          "sentiment_score": -0.651567,
+          "highlights": [
+            {
+              "highlight": "with a dominant position in bitcoin manipulating bitcoin pricing, (3) hacking of the bitcoin network and trading platforms, (4) malicious control of the bitcoin network, (5) trading based on material, non-public information, including the dissemination of false and misleading information, (6) manipulative activity involving the purported “stablecoin” <em>Tether</em>",
+              "sentiment": -0.6369,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "(<em>USDT</em>), and (7) fraud and manipulation at bitcoin trading platforms.’",
+              "sentiment": -0.7184,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The list of failures, frauds and fines is extensive:\n\nQuadriga CX\n\nBitfinex\n\n<em>Tether</em>\n\nCelsius\n\nLuna\n\nThree Arrows Capital\n\nVoyager\n\nFTX\n\nIn the wake of the blatant fraudulent behaviour, US lawmakers and regulators (Department of Justice, Securities Exchange Commission (SEC), CFTC, and the New York Attorney General) are stepping up enforcement efforts",
+              "sentiment": -0.5994,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "3ef1c805-7c12-4271-91de-b49f7b91c129",
+      "title": "Mooners and Shakers: Bitcoin barely clings to $28k as Pepe leapfrogs into top 100",
+      "description": "Following the performance of the US stock market, Bitcoin and altcoins have dipped as the US Dollar boosts. Meanwhile, PEPE keeps leaping up.",
+      "keywords": "",
+      "snippet": "share\n\n\n\n\n\n\n\nLink copied to\n\nclipboard\n\nFollowing the performance of the US stock market overnight, Bitcoin and many of the crypto market’s altcoins have dipp...",
+      "url": "https://stockhead.com.au/cryptocurrency/mooners-and-shakers-bitcoin-barely-clings-to-28k-as-pepe-leapfrogs-into-top-100/",
+      "image_url": "https://stockhead.com.au/wp-content/uploads/2023/05/GettyImages-709136149-scaled.jpg",
+      "language": "en",
+      "published_at": "2023-05-02T00:28:01.000000Z",
+      "source": "stockhead.com.au",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 36.48462,
+          "sentiment_score": 0.415573,
+          "highlights": [
+            {
+              "highlight": "share\n\n\n\n\n\n\n\nLink copied to\n\nclipboard\n\nFollowing the performance of the US stock market overnight, <em>Bitcoin</em> and many of the crypto market’s altcoins have dipped quite dramatically since this time yesterday, as the US Dollar Index gets a little boost. Meanwhile, frog memecoin PEPE keeps leaping higher.\n\nMore on that in a sec.",
+              "sentiment": 0.5627,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em> (<em>BTC</em>) responded particularly well to the banking sector woes in March, but that safe-haven narrative is yet to take hold this time around. A pre-FOMC dip is nothing new, though, as Crypto Twittering chart watcher Michaël van de Poppe suggests here…\n\nWell, well, well #<em>Bitcoin</em>. Again we're getting a correction going into FOMC?",
+              "sentiment": 0.7705,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em> has take quite a hit since we put this column together this time yesterday, when it was travelling, albeit with some turbulence, at a US$29,400 altitude. This morning (AEST), it plummeted to US$27,700, but is attempting to reclaim $28k as a level of support as we type.",
+              "sentiment": 0.5499,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The <em>Bitcoin</em> bulls and bears have plenty to speculate about as they analyse things of a technical nature.\n\n“Moustache” has been pointing out a bullish monthly cross in the MACD (moving average convergence/divergence), for instance, which has played out well for <em>Bitcoin</em> in the past…\n\n#<em>Bitcoin</em> – Update It finally happened.",
+              "sentiment": 0.5423,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "As said last time, the 2W cross has taken $<em>BTC</em> from 16k-30k.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "A monthly cross is huge and has only happened in 2012, 2015 and 2019 (I would call the covid crash an exception). pic.twitter.com/RZAEM1G5JL — 𝕄𝕠𝕦𝕤𝕥𝕒𝕔ⓗ𝕖 🧲 (@el_crypto_prof) May 1, 2023\n\nBut, if the US dollar somehow keeps pulling itself up off the canvas, all short-term bullish <em>Bitcoin</em> bets are off.",
+              "sentiment": -0.1027,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "If <em>Bitcoin</em> and the rest of the crypto market does continue to lose strength this week, it’ll be interesting to see if Pepe can hold up okay or if it gets well and truly frog stomped.",
+              "sentiment": 0.8442,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "pic.twitter.com/YnocngmGpM — Charlie Bilello (@charliebilello) May 1, 2023\n\nRates ripping pre-FOMC Market perhaps thinking we get a more hawkish than expected Fed on Wednesday –> given the stickiness of recent core inflation data and better than expected earnings. pic.twitter.com/vHgIRLX45q — tedtalksmacro (@tedtalksmacro) May 1, 2023\n\nNew month Same #<em>BTC</em>",
+              "sentiment": 0.4404,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "outlook$<em>BTC</em> is well-positioned for a new macro uptrend over the mid- to long-term after successfully breaking beyond the macro downtrend Question is do we get a 2015-like retest or just continue moving upwards like in 2019?",
+              "sentiment": 0.6908,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "#Crypto #<em>Bitcoin</em> pic.twitter.com/4JBpifji1x — Rekt Capital (@rektcapital) May 1, 2023\n\nRead More BitcoinCryptocurrency",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Mooners and Shakers: <em>Bitcoin</em> barely clings to $28k as Pepe leapfrogs into top 100",
+              "sentiment": 0.2732,
+              "highlighted_in": "title"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:TRX",
+          "name": "TRON",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 20.779888,
+          "sentiment_score": 0.0516,
+          "highlights": [
+            {
+              "highlight": "PUMPERS (11-100 market cap position)\n\n• Pepe (PEPE), (market cap: US$516 million) +65%\n\n• <em>TRON</em> (<em>TRX</em>), (market cap: US$6.12 billion) +2%\n\n• Chiliz (CHZ), (market cap: US$688 million) +1%\n\n• Injective (INJ), (market cap: US$630 million) +1%\n\nDespite Bitcoin and altcoins falling in a heap around it, Pepe bounded its way into the top 100 coins by market",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:CHZ",
+          "name": "Chiliz",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 23.403397,
+          "sentiment_score": 0.0516,
+          "highlights": [
+            {
+              "highlight": "PUMPERS (11-100 market cap position)\n\n• Pepe (PEPE), (market cap: US$516 million) +65%\n\n• TRON (TRX), (market cap: US$6.12 billion) +2%\n\n• <em>Chiliz</em> (<em>CHZ</em>), (market cap: US$688 million) +1%\n\n• Injective (INJ), (market cap: US$630 million) +1%\n\nDespite Bitcoin and altcoins falling in a heap around it, Pepe bounded its way into the top 100 coins by market",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "7e5834d0-8de5-48a5-962c-7913d8cab975",
+      "title": "Balaji Srinivasan ‘Not Backtracking’ on Massive Bitcoin (BTC) Bet As Probability of US Debt Default Rises",
+      "description": "Balaji Srinivasan says that he's not backing down from his bold call that Bitcoin (BTC) will explode to $1,000,000 on the back of a US economic crisis.",
+      "keywords": "",
+      "snippet": "Balaji Srinivasan says that he’s not backing down from his bold call that Bitcoin (BTC) will explode to $1,000,000 on the back of a US economic crisis.\n\nIn Ma...",
+      "url": "https://dailyhodl.com/2023/05/01/balaji-srinivasan-not-backtracking-on-massive-bitcoin-btc-bet-as-probability-of-us-debt-default-rises/",
+      "image_url": "https://dailyhodl.com/wp-content/uploads/2022/10/Calls-BTC-Fastest-Horse.jpg",
+      "language": "en",
+      "published_at": "2023-05-02T00:00:26.000000Z",
+      "source": "dailyhodl.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 49.602303,
+          "sentiment_score": -0.009433,
+          "highlights": [
+            {
+              "highlight": "Balaji Srinivasan says that he’s not backing down from his bold call that <em>Bitcoin</em> (<em>BTC</em>) will explode to $1,000,000 on the back of a US economic crisis.\n\nIn March, the former Coinbase executive placed a bet that <em>Bitcoin</em> would reach $1 million within three months, largely due to failing banks and hyperinflation.",
+              "sentiment": -0.6936,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "“I think we see an exit from the US banking system towards <em>Bitcoin</em> over the next weeks and months and perhaps years to come.\n\nThe exact timeline of 90 days? You know, I don’t think it’s impossible that happens given how fast digital bank runs happen, but directionally it’s much easier. Timing is hard, prepping is easy.”",
+              "sentiment": 0.4767,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The <em>Bitcoin</em> bull also points out that the likelihood of a US sovereign default recently hit all-time highs, potentially strengthening his side of the bet. He shares a chart showing the price of credit default swaps (CDS) on US 1-year bonds skyrocketing as of late.\n\n“Had to work out legal details, but look for a bet update soon.",
+              "sentiment": 0.5789,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "At time of writing, <em>Bitcoin</em> is trading at $29,376, nearly 3,000% away from Srinivasan’s $1 million call.\n\nDon't Miss a Beat – Subscribe to get crypto email alerts delivered directly to your inbox\n\nFollow us on Twitter Facebook and Telegram\n\nCheck Latest News Headlines\n\nDisclaimer: Opinions expressed at The Daily Hodl are not investment advice.",
+              "sentiment": 0.0453,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Investors should do their due diligence before making any high-risk investments in <em>Bitcoin</em>, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility.",
+              "sentiment": -0.1027,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Balaji Srinivasan ‘Not Backtracking’ on Massive <em>Bitcoin</em> (<em>BTC</em>) Bet As Probability of US Debt Default Rises",
+              "sentiment": -0.3612,
+              "highlighted_in": "title"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "c67783fc-734f-44b0-ab2f-fd301b02f490",
+      "title": "Coinbase 10-K And USDC Examination Reports Raise Questions For March 2023 Earnings (COIN)",
+      "description": "Coinbase's increased investment in USDC to 1.9% of total USDC outstanding raises questions. Click to read why I consider COIN stock a strong sell.",
+      "keywords": "",
+      "snippet": "Andrii Yalanskyi\n\nCoinbase's (NASDAQ:COIN) December 2022 10-K and USDC Examination Reports raise a number of questions going into the March 2023 earnings.\n\nUSCo...",
+      "url": "https://seekingalpha.com/article/4598644-coinbase-10k-and-usdc-examination-reports-raise-questions-march-2023-earnings",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1454707439/image_1454707439.jpg?io=getty-c-w1536",
+      "language": "en",
+      "published_at": "2023-05-01T23:19:20.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "ETHUSD",
+          "name": "Ethereum USD",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 31.302864,
+          "sentiment_score": 0.0516,
+          "highlights": [
+            {
+              "highlight": "There is no disclosure as to what portion of these crypto assets received as revenue were in the liquid and transparent markets for Bitcoin or <em>Ethereum</em> (<em>ETH</em>-<em>USD</em>) versus the nontransparent and nebulously categorized \"Other crypto assets\" that constituted 49% of COIN's transaction revenue from crypto traded on COIN's platform.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:ETH",
+          "name": "Ethereum",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 24.104908,
+          "sentiment_score": 0.333733,
+          "highlights": [
+            {
+              "highlight": "Within transaction revenue and subscription and services revenue, a meaningful concentration is from transactions in Bitcoin and <em>Ethereum</em> and interest income in connection with USDC , respectively.",
+              "sentiment": 0.7717,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "There is no disclosure as to what portion of these crypto assets received as revenue were in the liquid and transparent markets for Bitcoin or <em>Ethereum</em> (<em>ETH</em>-USD) versus the nontransparent and nebulously categorized \"Other crypto assets\" that constituted 49% of COIN's transaction revenue from crypto traded on COIN's platform.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "For perspective, Bitcoin trading represented only 29% of COIN's transaction revenue and <em>Ethereum</em> transactions 22% of COIN's revenues.\n\nCOIN discloses up to 10% of quarterly earnings can be invested in crypto assets.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "c1964a3f-21c9-423c-b589-0fa8d1f12fe1",
+      "title": "If You Invested $100 In Bitcoin, Ethereum And Dogecoin In March 2020, Here's How Much You'd Have Now",
+      "description": "Investors who have put money into major U.S. indices have enjoyed respectable returns since the bottom of the market in March 2020. In fact, the SPDR S&P 500 ETF, Invesco QQQ Trust Series 1 and SPDR Dow Jones Industrial Average ETF Trust have returned 81.60%, 88.75% and 77.36%, respectively, since then.",
+      "keywords": "",
+      "snippet": "Investors who have put money into major U.S. indices have enjoyed respectable returns since the bottom of the market in March 2020.\n\nIn fact, the SPDR S&P 500 E...",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/23/05/32140342/if-you-invested-100-in-bitcoin-ethereum-and-dogecoin-in-march-2020-heres-how-much-youd-hav",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2023/05/01/shiba-inu-6265490.jpg?width=1200&height=800&fit=crop",
+      "language": "en",
+      "published_at": "2023-05-01T23:15:27.000000Z",
+      "source": "benzinga.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "BTCUSD",
+          "name": "Bitcoin USD",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 56.349827,
+          "sentiment_score": 0.8176,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\n<em>Bitcoin</em> <em>BTC</em>/<em>USD</em> : $542.65\n\n: $542.65 Ethereum ETH/USD : $1,495.08\n\n: $1,495.08 Dogecoin DOGE/USD",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "ETHUSD",
+          "name": "Ethereum USD",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 58.60601,
+          "sentiment_score": 0.8176,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\nBitcoin BTC/<em>USD</em> : $542.65\n\n: $542.65 <em>Ethereum</em> <em>ETH</em>/<em>USD</em> : $1,495.08\n\n: $1,495.08 Dogecoin DOGE/USD",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "DOGEUSD",
+          "name": "Dogecoin USD",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 65.57424,
+          "sentiment_score": 0.8176,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\nBitcoin BTC/USD : $542.65\n\n: $542.65 Ethereum ETH/<em>USD</em> : $1,495.08\n\n: $1,495.08 <em>Dogecoin</em> <em>DOGE</em>/<em>USD</em>",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 32.43276,
+          "sentiment_score": 0.4088,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\n<em>Bitcoin</em> <em>BTC</em>/USD : $542.65\n\n: $542.65 Ethereum ETH/USD : $1,495.08\n\n: $1,495.08 Dogecoin DOGE/USD",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "If You Invested $100 In <em>Bitcoin</em>, Ethereum And Dogecoin In March 2020, Here's How Much You'd Have Now",
+              "sentiment": 0,
+              "highlighted_in": "title"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:ETH",
+          "name": "Ethereum",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 36.38777,
+          "sentiment_score": 0.4088,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\nBitcoin BTC/USD : $542.65\n\n: $542.65 <em>Ethereum</em> <em>ETH</em>/USD : $1,495.08\n\n: $1,495.08 Dogecoin DOGE/USD",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "If You Invested $100 In Bitcoin, <em>Ethereum</em> And Dogecoin In March 2020, Here's How Much You'd Have Now",
+              "sentiment": 0,
+              "highlighted_in": "title"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:DOGE",
+          "name": "Dogecoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 40.871758,
+          "sentiment_score": 0.4088,
+          "highlights": [
+            {
+              "highlight": "See Also: 5 Stocks Feeling The Jitters Ahead Of Expected Fed Interest Rate Hike\n\nWinners Since March 2020: Here’s how much $100 in each of the following cryptocurrencies and stocks back at the bottom of the U.S. market in March 2020 would be worth today:\n\nBitcoin BTC/USD : $542.65\n\n: $542.65 Ethereum ETH/USD : $1,495.08\n\n: $1,495.08 <em>Dogecoin</em> <em>DOGE</em>/USD",
+              "sentiment": 0.8176,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "If You Invested $100 In Bitcoin, Ethereum And <em>Dogecoin</em> In March 2020, Here's How Much You'd Have Now",
+              "sentiment": 0,
+              "highlighted_in": "title"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "db40c2b1-7670-4fd8-af4e-1590eb4c9ccd",
+      "title": "What Are The 3 Different Types Of Cryptocurrencies?",
+      "description": "Bitcoin originated a new technological wave. Let's explore what has happened and what different cryptocurrencies are.",
+      "keywords": "Bitcoin, Satoshi Nakamoto, Vitalik Buterin, USDT, DAI",
+      "snippet": "DENVER, CO - FEBRUARY 18: Ethereum co-founder Vitalik Buterin speaks at ETHDenver on February 18, ... [+] 2022 in Denver, Colorado. ETHDenver is the largest and...",
+      "url": "https://www.forbes.com/sites/digital-assets/2023/05/01/what-are-the-3-different-types-of-cryptocurrencies/",
+      "image_url": "https://imageio.forbes.com/specials-images/imageserve/64503825f2c5b5904aad4710/0x0.jpg?format=jpg&width=1200",
+      "language": "en",
+      "published_at": "2023-05-01T22:15:30.000000Z",
+      "source": "forbes.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 41.30767,
+          "sentiment_score": 0.50744,
+          "highlights": [
+            {
+              "highlight": "It all started with <em>bitcoin</em>, the first decentralized digital currency. Any other cryptocurrency other than <em>bitcoin</em>, is sometimes called an ‘altcoin.’ There are more than 10,720 altcoins and many different categories, such as stablecoins like USDT or DAI DAI , which have already gained popularity in Asia and Latin America.",
+              "sentiment": 0.802,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em> <em>BTC</em> , launched by the anonymous creator Satoshi Nakamoto in 2009, was built as a payment system in which value is sent directly from one party to another without intermediaries. It was inspired by a group of privacy activists known as cypherpunks.",
+              "sentiment": 0.8316,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Today, people may see <em>bitcoin</em> as a way to store value or the cryptocurrency best suited to long-term savings. Nakamoto's creation was the first successful prototype of a digital currency based on cryptography without third parties to rely on.",
+              "sentiment": 0.9001,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em> Is Digital Gold\n\nBecause <em>bitcoin</em> is scarce and suitable for international savings or transfers, some people call it digital gold.\n\nPlus, the <em>Bitcoin</em> network uses a proof-of-work mechanism that ensures someone needs to perform computational work that can be easily verified to participate in <em>bitcoin</em> mining.",
+              "sentiment": 0.34,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "According to the network protocol, only 21 million <em>bitcoin</em> can be mined. The main goal of PoW is to secure the public record and prevent spam across the network.\n\n<em>Bitcoin</em> mining is a central element of its security and distribution.",
+              "sentiment": 0.34,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The price of <em>bitcoin</em> is determined by supply and demand dynamics, not any particular organization or board of <em>bitcoin</em> miners. Because no one is in charge of all aspects of <em>bitcoin</em>, it is considered the most decentralized cryptocurrency to date.",
+              "sentiment": 0.2023,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "So far, the most popular stablecoins are those issued by a central authority with USD-denominated liquid reserves, which means they are not as decentralized as <em>bitcoin</em>. It’s also much more common for people to use stablecoins on crypto exchanges than it is for stablecoins to be used in peer-to-peer transactions or savings.",
+              "sentiment": 0.5209,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Now, stablecoins and P2P markets enable people to avoid the challenges related to their local currency inflating, all with much less volatility than the <em>bitcoin</em> market.\n\nAltcoins Offer Business Opportunities\n\nCountless blockchain developers and entrepreneurs have created a myriad of cryptocurrencies inspired by bitcoin’s example.",
+              "sentiment": 0.7096,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Ethereum was created in 2014 by Vitalik Buterin, a Canadian-Russian developer who was himself an early <em>Bitcoin</em> adopter. The project has grown to include hundreds of organizations and thousands of individuals now participating in the Ethereum ecosystem.",
+              "sentiment": 0.25,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Bitcoin</em>, stablecoins, and altcoins are the three main categories of digital assets that cover a wide variety of use cases.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:ETH",
+          "name": "Ethereum",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 41.571938,
+          "sentiment_score": 0.58434,
+          "highlights": [
+            {
+              "highlight": "DENVER, CO - FEBRUARY 18: <em>Ethereum</em> co-founder Vitalik Buterin speaks at ETHDenver on February 18, ... [+] 2022 in Denver, Colorado. ETHDenver is the largest and longest running <em>Ethereum</em> Blockchain event in the world with more than 15,000 cryptocurrency devotees attending the weeklong meetup.",
+              "sentiment": 0.128,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "There are different stablecoin models, including both algorithmic stablecoins like DAI, backed by loans on the <em>Ethereum</em> <em>ETH</em> network, and fiat-collateralized stablecoins like USDT and USDC USDC , issued by Coinbase and Circle.",
+              "sentiment": 0.6249,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The most popular altcoin is ether, the native token from the <em>Ethereum</em> network, which recently switched from bitcoin’s PoW model to a proof-of-stake model instead.\n\n<em>Ethereum</em> was created in 2014 by Vitalik Buterin, a Canadian-Russian developer who was himself an early Bitcoin adopter.",
+              "sentiment": 0.6204,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The project has grown to include hundreds of organizations and thousands of individuals now participating in the <em>Ethereum</em> ecosystem. Most people turn to altcoins for business opportunities, including trading and arbitrage, issuing startup equity, or even managing real-world assets like real estate or commodities.",
+              "sentiment": 0.7003,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "And yet <em>Ethereum</em> inspired dozens of altcoin networks catering to business use cases, like Tron, Avalanche AVAX , and Cardano ADA . There are many different altcoins in the market. Some, like dogecoin, even started as jokes.",
+              "sentiment": 0.8481,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:USDT",
+          "name": "Tether",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 44.45682,
+          "sentiment_score": 0.67565,
+          "highlights": [
+            {
+              "highlight": "There are more than 10,720 altcoins and many different categories, such as stablecoins like <em>USDT</em> or DAI DAI , which have already gained popularity in Asia and Latin America.",
+              "sentiment": 0.802,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "That value may be, for example, one <em>USDT</em> token, the most popular among these products, for one U.S. dollar. <em>Tether</em> <em>USDT</em> issues this. The stablecoin’s value may be relative to euros or even commodities like gold.",
+              "sentiment": 0.8542,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "There are different stablecoin models, including both algorithmic stablecoins like DAI, backed by loans on the Ethereum ETH network, and fiat-collateralized stablecoins like <em>USDT</em> and USDC USDC , issued by Coinbase and Circle.",
+              "sentiment": 0.6249,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "In the 2022 Geography of Cryptocurrency Report, Chainalysis stated that 34% of Venezuela’s retail P2P transactions settled through <em>USDT</em>, with Argentina having a close 31%. Other countries where stablecoins were popular included Turkey, Lebanon, South Africa, Nigeria, and Kenya.",
+              "sentiment": 0.4215,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:ADA",
+          "name": "Cardano",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 37.199547,
+          "sentiment_score": 0.8481,
+          "highlights": [
+            {
+              "highlight": "And yet Ethereum inspired dozens of altcoin networks catering to business use cases, like Tron, Avalanche AVAX , and <em>Cardano</em> <em>ADA</em> . There are many different altcoins in the market. Some, like dogecoin, even started as jokes.",
+              "sentiment": 0.8481,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:AVAX",
+          "name": "Avalanche",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 38.567883,
+          "sentiment_score": 0.8481,
+          "highlights": [
+            {
+              "highlight": "And yet Ethereum inspired dozens of altcoin networks catering to business use cases, like Tron, <em>Avalanche</em> <em>AVAX</em> , and Cardano ADA . There are many different altcoins in the market. Some, like dogecoin, even started as jokes.",
+              "sentiment": 0.8481,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": [
+        {
+          "uuid": "85ffd1ce-74a7-428d-8807-8d27e4f486c1",
+          "title": "Cryptocurrencies To Watch: Week of May 1",
+          "description": "This week’s cryptocurrencies to keep an eye on are Render Token (RNDR), Casper (CSPR), Injective (INJ), Internet Computer (ICP), and MultiversX (EGLD).",
+          "keywords": "",
+          "snippet": "Keep an Eye on These Coins\n\nThe cryptocurrency market is holding steady at its current levels after experiencing a brief upward blip late last week. Overall sen...",
+          "url": "https://www.investopedia.com/cryptocurrencies-to-watch-week-of-may-1-7487056",
+          "image_url": "https://www.investopedia.com/thmb/jgBygcDZDvDEqdJnNmmWnBiHCR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_CryptoCoinImage_28-14c22b63b92145a08d884d77da4adcd6.jpg",
+          "language": "en",
+          "published_at": "2023-05-01T16:25:24.000000Z",
+          "source": "investopedia.com",
+          "relevance_score": null,
+          "entities": [
+            {
+              "symbol": "CC:RNDR",
+              "name": "Render Token",
+              "exchange": "CC",
+              "exchange_long": "Cryptocurrency",
+              "country": "global",
+              "type": "cryptocurrency",
+              "industry": "N/A",
+              "match_score": 69.54518,
+              "sentiment_score": 0.5675,
+              "highlights": [
+                {
+                  "highlight": "This week, we examine <em>Render</em> <em>Token</em> (<em>RNDR</em>), Casper (CSPR), Injective (INJ), Internet Computer (ICP), and MultiversX (EGLD). In selecting these assets, we have considered several factors, including beneficial technical developments, significant news events, and noticeable changes in price.",
+                  "sentiment": 0.6597,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "Key Takeaways <em>Render</em> <em>Token</em> (<em>RNDR</em>) was the week’s biggest gainer, with a 35% increase in price, possibly due to the implementation of its BME model on the Solana blockchain.\n\nCasper (CSPR) was another major gainer, with a 20% price increase after the introduction of a wallet and a partnership with Halborn, a cybersecurity firm.",
+                  "sentiment": 0.5574,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "<em>Render</em> <em>Token</em> (<em>RNDR</em>)\n\n<em>Render</em> <em>Token</em> (<em>RNDR</em>) was one of the cryptocurrency market’s best performers in the latest week, with the token's price up 35%. The increase is likely due to the fact that a new Render model, called BME, has gone live on the Solana blockchain. The implementation was anticipated and changed the architecture of the network.",
+                  "sentiment": 0.7579,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "<em>Render</em> <em>Token</em> provides a decentralized GPU rendering system that allows broader access to complex rendering processes. The project has utility in such industries as media, gaming, virtual reality, and medicine. <em>RNDR</em> is currently priced at around $2.50, having been $1.74 a week ago (see chart below).",
+                  "sentiment": 0,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "<em>RNDR</em>: TradingView\n\nCasper (CSPR)\n\nThe Casper (CSPR) coin gained by about 20% last week, likely because of the release of a new block chain web wallet called Casper Wallet. The Casper team says the new wallet will provide better user experience, full desktop browser support, native notification delivery, and better security.",
+                  "sentiment": 0.8625,
+                  "highlighted_in": "main_text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "b0df41f3-56a2-4e6d-bd2f-814b6cdb8f7d",
+      "title": "Comment acheter le token YPRED ? Guide 2023",
+      "description": "Découvrez comment acheter le token YPRED et les raisons d'investir dans cette crypto novatrice concernant les prévisions de crypto-monnaies !",
+      "keywords": "",
+      "snippet": "Comment acheter le token YPRED (ypredict.ai) ?\n\nyPredict.ai est un écosystème tout-en-un spécialement conçu pour les développeurs, les traders, les commer?...",
+      "url": "https://fr.cryptonews.com/exclusives/achetern-ypred.htm",
+      "image_url": "https://v2.cimg.co/news/112663/272322/acheter-ypredict-cryptonews.jpg",
+      "language": "fr",
+      "published_at": "2023-05-01T22:14:00.000000Z",
+      "source": "fr.cryptonews.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:ETH",
+          "name": "Ethereum",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 22.090527,
+          "sentiment_score": null,
+          "highlights": [
+            {
+              "highlight": "Cela inclut bien entendu BTC et <em>ETH</em>. Pour accéder à ce réseau, les utilisateurs devront acheter des jetons YPRED, qui sont encore en cours de prévente.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Les traders de crypto-monnaies\n\nL’écosystème yPredict.ai soumet des analyses et des signaux fiables de trading sur les crypto-monnaies les plus populaires du moment, BTC et <em>ETH</em>, y compris.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "En ce sens, l’achat du token YPRED s’ouvre directement aux traders qui possèdent déjà un portefeuille DeFi alimenté avec Matic, BNB, <em>Ethereum</em> et USDT.\n\nLes titulaires de compte sur des portails d’Exchange comme Coinbase ou Binance pourront également en acquérir, en quelques clics seulement.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Sur la droite de l’écran, vous avez de nombreux widgets d’achat qui correspondent à différents cryptos (<em>ETH</em>, BNB et Matic). Appuyez sur celui que vous désirez utiliser.\n\nSaisissez votre adresse e-mail dans le champ indiqué.\n\n\n\n\n\nÉtape 2\n\nSaisissez le montant en <em>ETH</em>, Matic ou BNB que vous désirez investir pour la prévente.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Assurez-vous que la quantité de Matic, <em>ETH</em> ou BNB dans votre application de portefeuille corresponde à la quantité affichée dans la fenêtre de paiement juste au-dessus du QR code.\n\n\n\n\n\nÉtape 3\n\nPatientez le temps qu’yPredict.ai confirme qu’elle a envoyé vos YPRED dans votre portefeuille.",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            }
+          ]
+        },
+        {
+          "symbol": "CC:MATIC",
+          "name": "Polygon",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 26.045998,
+          "sentiment_score": null,
+          "highlights": [
+            {
+              "highlight": "Des jetons conçus sur la chaîne <em>Polygon</em>\n\nPour concrétiser son projet, yPredict.ai devait choisir un réseau blockchain capable de prendre en charge la croissance et les multiples utilisations de ses jetons. De nombreuses options se sont offertes au portail, mais les développeurs ont finalement opté pour la chaîne <em>Polygon</em>.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "En outre, <em>Polygon</em> est reconnu pour l’expérience agréable et le haut niveau de sécurité qu’elle procure.\n\nPour précision, yPredict.ai a limité son offre à 100 millions d’YPRED, et cela, pour qu’elles puissent acquérir une valeur raisonnable.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "En ce sens, l’achat du token YPRED s’ouvre directement aux traders qui possèdent déjà un portefeuille DeFi alimenté avec <em>Matic</em>, BNB, Ethereum et USDT.\n\nLes titulaires de compte sur des portails d’Exchange comme Coinbase ou Binance pourront également en acquérir, en quelques clics seulement.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Sur la droite de l’écran, vous avez de nombreux widgets d’achat qui correspondent à différents cryptos (ETH, BNB et <em>Matic</em>). Appuyez sur celui que vous désirez utiliser.\n\nSaisissez votre adresse e-mail dans le champ indiqué.\n\n\n\n\n\nÉtape 2\n\nSaisissez le montant en ETH, <em>Matic</em> ou BNB que vous désirez investir pour la prévente.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Assurez-vous que la quantité de <em>Matic</em>, ETH ou BNB dans votre application de portefeuille corresponde à la quantité affichée dans la fenêtre de paiement juste au-dessus du QR code.\n\n\n\n\n\nÉtape 3\n\nPatientez le temps qu’yPredict.ai confirme qu’elle a envoyé vos YPRED dans votre portefeuille.",
+              "sentiment": 0.0516,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": [
+        {
+          "uuid": "4eaf7bd9-3a3d-4119-8d56-4ca6a019f386",
+          "title": "Acheter AiDoge en prévente, notre guide complet 2023",
+          "description": "La nouvelle crypto AiDoge et disponible en prévente. Découvrez comment acheter ce token novateur et les raisons d'investir dans l'$AI.",
+          "keywords": "",
+          "snippet": "Comment acheter le token AiDoge ($Ai) en prévente ?\n\nAiDoge est un tout nouveau projet qui compte profiter de la viralité sensationnelle des mèmes. Les déve...",
+          "url": "https://fr.cryptonews.com/exclusives/acheter-aidoge.htm",
+          "image_url": "https://v2.cimg.co/news/112651/272321/acheter-aidoge-cryptonews.jpg",
+          "language": "fr",
+          "published_at": "2023-05-01T20:06:00.000000Z",
+          "source": "fr.cryptonews.com",
+          "relevance_score": null,
+          "entities": [
+            {
+              "symbol": "CC:ETH",
+              "name": "Ethereum",
+              "exchange": "CC",
+              "exchange_long": "Cryptocurrency",
+              "country": "global",
+              "type": "cryptocurrency",
+              "industry": "N/A",
+              "match_score": 22.41331,
+              "sentiment_score": null,
+              "highlights": [
+                {
+                  "highlight": "Vous devrez ensuite les renflouer en <em>ETH</em>, BNB, TetherUSDT de la blockchain <em>Ethereum</em> ou bien avec des USDT BEP-20 de la binance Smart Chain.\n\nconnectez un wallet crypto su type Metamask ou encore TrustWallet. Ce sont les leaders du marché et les plus intuitifs pour les débutants !",
+                  "sentiment": -0.2263,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "Vous devrez ensuite les renflouer en <em>ETH</em>, BNB, TetherUSDT de la blockchain <em>Ethereum</em> ou bien avec des USDT BEP-20 de la binance Smart Chain. Étapes 3 : cliquez sur “Buy Now” et sélectionnez la méthode de paiement que vous préférez. Il ne vous reste plus qu’à valider la transaction !",
+                  "sentiment": -0.2263,
+                  "highlighted_in": "main_text"
+                },
+                {
+                  "highlight": "Une fois votre wallet en main, il vous suffit de le renflouer en BNB, <em>ETH</em>, ou bien avec des stablecoins USDT ERC-20 ou encore les stablecoin USDT BEP-20 de Binance. Ces jetons sont achetables depuis le bouton acheter de vos portefeuilles.\n\n\n\n\n\nAchetez des tokens $AI\n\nC’est bientôt fini !",
+                  "sentiment": -0.2263,
+                  "highlighted_in": "main_text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "f15b79e6-4f4f-4331-a927-afd6b0127c77",
+      "title": "Tech Mogul Jack Dorsey’s Bitcoin Company Block Buys Up Hardware From Intel for New Mining Operations",
+      "description": "Jack Dorsey’s fintech company Block is buying Bitcoin (BTC) mining chips from Intel in order to boost their equipment production plans.",
+      "keywords": "",
+      "snippet": "Jack Dorsey’s fintech company Block is buying Bitcoin (BTC) mining chips from Intel in order to boost their equipment production plans.\n\nAccording to a new bl...",
+      "url": "https://dailyhodl.com/2023/05/01/tech-mogul-jack-dorseys-bitcoin-company-block-buys-up-hardware-from-intel-for-new-mining-operations/",
+      "image_url": "https://dailyhodl.com/wp-content/uploads/2022/05/dorsey-saylor-pen.jpg",
+      "language": "en",
+      "published_at": "2023-05-01T22:01:34.000000Z",
+      "source": "dailyhodl.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 35.33917,
+          "sentiment_score": 0.122113,
+          "highlights": [
+            {
+              "highlight": "Jack Dorsey’s fintech company Block is buying <em>Bitcoin</em> (<em>BTC</em>) mining chips from Intel in order to boost their equipment production plans.\n\nAccording to a new blog post, Block’s purchase of Intel’s ASIC (application-specific integrated circuit) chips will accelerate their plans to enter the <em>Bitcoin</em> mining market.",
+              "sentiment": -0.0516,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "“In the past year, we completed the design of a high performing <em>Bitcoin</em> mining ASIC on the 5-nanometer semiconductor node. Our original plan had been to do a full tape out of this design this quarter.",
+              "sentiment": 0.3182,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "However, as we were planning this tape out, we learned of an opportunity to acquire a large volume of <em>Bitcoin</em> mining ASICs from Intel, and just completed a purchase agreement with Intel. This immediate access to production ASICs accelerates our mining system development, enabling us to get to market more quickly.”",
+              "sentiment": 0.7184,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "The company says it’s in the process of finalizing a design of a 5-nanometer chip for <em>Bitcoin</em> mining.\n\n“Additionally, we can now focus our design team exclusively on cutting edge 3-nanometer ASIC development.",
+              "sentiment": -0.128,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Block says they decided to enter the <em>Bitcoin</em> mining equipment market because they have ASIC experience, which they use for their point-of-sales payments app, and for the integrity of the <em>Bitcoin</em> network as a whole.",
+              "sentiment": -0.0772,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "“And perhaps most importantly, our primary motivation for this initiative is to increase the decentralization, transparency, and resiliency of the <em>Bitcoin</em> network.”",
+              "sentiment": 0.7402,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Investors should do their due diligence before making any high-risk investments in <em>Bitcoin</em>, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility.",
+              "sentiment": -0.1027,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Tech Mogul Jack Dorsey’s <em>Bitcoin</em> Company Block Buys Up Hardware From Intel for New Mining Operations",
+              "sentiment": -0.4404,
+              "highlighted_in": "title"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "d33548a5-798b-46da-866b-253ef058e483",
+      "title": "Bitfarms : MATERIAL CHANGE REPORT - Form 6-K",
+      "description": "MATERIAL CHANGE REPORT\n    \n    \n      \n        \n          Name and Address of Company \n        \n      \n    \n    \n      Bitfarms Ltd. \n    \n    \n      18 King Street East, Suite 902\n    \n    \n ... | May  1,  2023",
+      "keywords": "BITFARMS LTD. stock exchange, news, information, press release, material, change, name, and, address, of, company, bitfarms, 18, king, street, suite | BITF | CA09173B1076",
+      "snippet": "MATERIAL CHANGE REPORT\n\nName and Address of Company\n\nBitfarms Ltd. (\"Bitfarms\" or the \"Company\")\n\n18 King Street East, Suite 902\n\nToronto, Ontario M5C 1C4\n\nDate...",
+      "url": "https://www.marketscreener.com/quote/stock/BITFARMS-LTD-62037823/news/Bitfarms-MATERIAL-CHANGE-REPORT-Form-6-K-43705089/",
+      "image_url": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "language": "en",
+      "published_at": "2023-05-01T21:20:20.000000Z",
+      "source": "marketscreener.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "CC:BTC",
+          "name": "Bitcoin",
+          "exchange": "CC",
+          "exchange_long": "Cryptocurrency",
+          "country": "global",
+          "type": "cryptocurrency",
+          "industry": "N/A",
+          "match_score": 29.914953,
+          "sentiment_score": 0.25396,
+          "highlights": [
+            {
+              "highlight": "c (May 1, 2023) - Bitfarms Ltd. ( NASDAQ: BITF//TSX: BITF ), a global vertically integrated <em>Bitcoin</em> mining company, provided a <em>Bitcoin</em> (<em>BTC</em>) production and mining operations update for April 2023.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Reflecting improved mining economics, as in March, we sold less <em>BTC</em> than we produced, which resulted in a net addition of 30 <em>BTC</em> to treasury in April, bringing the total at month end to 465 <em>Bitcoin</em>,\" concluded Morphy.",
+              "sentiment": 0.5994,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Mining Review\n\nNetwork difficulty increased another 4% in April and is up 38% year-to-date in 2023, while <em>Bitcoin</em> price is up roughly 77% in the same period, resulting in a 9% improvement in mining economics as measured by USD/TH.",
+              "sentiment": 0.4019,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Key Performance Indicators Apr. 2023 Mar. 2023 Apr. 2022 Total <em>BTC</em> Mined 379 424 405 Month End Operating EH/s 5.0 4.8 3.3 <em>BTC</em>/ Avg.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "● 80.6 <em>BTC</em>/average EH/s, down from 91.4 in March 2023.\n\n● 379 new <em>BTC</em> mined, down 6.4% from April 2022 and down 10.6% from March 2023.\n\n● 12.6 <em>BTC</em> mined daily on average, equivalent to about $369,180 per day and approximately $11.1 million for the month, based on a <em>BTC</em> price of $29,300 on April 30, 2023.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Bitfarms' <em>BTC</em> Monthly Production\n\nThe table below presents an overview of <em>BTC</em> mined per month in each of the first four months of 2023 and 2022, respectively.",
+              "sentiment": 0.34,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Month <em>BTC</em> Mined\n\n2023 <em>BTC</em> Mined\n\n2022 January 486 301 February 387 298 March 424 363 April 379 405 Total YTD 1,676 1,367\n\nApril 2023 Financial Update\n\n● Sold 349 <em>BTC</em> of the 379 <em>BTC</em> mined, generating total proceeds of $10.1 million.\n\n● Reduced total outstanding indebtedness by $2 million, leaving a balance of $19 million at April 30, 2023.",
+              "sentiment": 0.6124,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "● Added 30 <em>BTC</em> to treasury, as a result of solid cash flow from operations, increasing <em>BTC</em> in custody to 465, representing a total value of approximately $13.6 million based on a <em>BTC</em> price of $29,300, on April 30, 2023.\n\n3\n\nConferences and Events\n\nBitfarms plans to attend the following upcoming events:\n\n● May 18-20: <em>Bitcoin</em> 2023, Miami FL\n\n● May 18",
+              "sentiment": 0.5859,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "Founded in 2017, Bitfarms is a global, publicly traded (NASDAQ/TSX: BITF) <em>Bitcoin</em> mining company. Bitfarms develops, owns, and operates vertically integrated mining farms with in-house management and company-owned electrical engineering, installation service, and multiple onsite technical repair centers.",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "To learn more about Bitfarms' events, developments, and online communities:\n\nWebsite: www.bitfarms.com\n\nhttps://www.facebook.com/bitfarms/\n\nhttps://twitter.com/Bitfarms_io\n\nhttps://www.instagram.com/bitfarms/\n\nhttps://www.linkedin.com/company/bitfarms/\n\nGlossary of Terms\n\n● <em>BTC</em> <em>BTC</em>/day = <em>Bitcoin</em> or <em>Bitcoin</em> per day\n\n● EH or EH/s = Exahash or exahash",
+              "sentiment": 0,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    }
+  ]
+}
