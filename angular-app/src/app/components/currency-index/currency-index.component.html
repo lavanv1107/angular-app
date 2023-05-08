@@ -2,14 +2,14 @@
   <div class="hero-body">
     <div class="container">
       <h1>Exchange Rates</h1>
-      <h3>Real-Time Rates for Select Currencies from CoinAPI</h3>
+      <h3>Current Rates for Select Currencies from CoinAPI</h3>
     </div>
   </div>
 </section>
 <section class="section">
   <div class="container">
     <div class="columns is-centered">
-      <div class="column is-two-thirds">
+      <div class="column is-one-third">
         <ag-grid-angular
           style="width: 100%; height: 400px"
           class="ag-theme-balham"
@@ -21,6 +21,9 @@
           [paginationPageSize]="100"
         >
         </ag-grid-angular>
+      </div>
+      <div class="column">
+        <app-exchange-rate></app-exchange-rate>
       </div>
     </div>
   </div>
