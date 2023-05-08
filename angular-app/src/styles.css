@@ -3,6 +3,11 @@
 @import "ag-grid-community/styles/ag-theme-balham.css";
 @import "ag-grid-community/styles/ag-theme-material.css";
 
+@font-face {
+  font-family: "Courier Prime";
+  src: url(assets/fonts/CourierPrime-Regular.ttf);
+}
+
 html,
 body {
   height: 100%;
@@ -10,6 +15,7 @@ body {
 
 body {
   margin: 0;
+  font-family: "Courier Prime";
 }
 
 /* Bulma Helpers */

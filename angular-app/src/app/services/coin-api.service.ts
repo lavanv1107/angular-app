@@ -21,16 +21,9 @@ export class CoinApiService {
     return { headers };
   }
 
-  // Get exchange rate between pair of requested assets at current time
-  getExchangeRate(symbol1: string, symbol2: string): Observable<any> {
-    const url = `${this.apiUrl}/exchangerate/${symbol1}/${symbol2}`;
-    const headers = this.getHeaders();
-    return this.http.get<any>(url, headers);
-  }
-
-  // Get detailed list of assets
-  getAssets(): Observable<any> {
-    const url = `${this.apiUrl}/assets`;
+  // Get cryptocurrency exchange rates
+  getExchangeRates(cryptoSymbol: string): Observable<any> {
+    const url = `${this.apiUrl}/exchangerate/${cryptoSymbol}`;
     const headers = this.getHeaders();
     return this.http.get<any>(url, headers);
   }

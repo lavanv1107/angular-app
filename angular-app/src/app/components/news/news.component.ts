@@ -1,46 +1,33 @@
-import { Component, OnInit } from '@angular/core';
-
-import { MarketAuxService } from '../../services/market-aux.service';
-import { firstValueFrom } from 'rxjs';
-
-import { MatSnackBar } from '@angular/material/snack-bar';
-
-import { trigger, style, animate, transition } from '@angular/animations';
+import { Component } from '@angular/core';
+import { map } from 'rxjs/operators';
+import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 
 @Component({
   selector: 'app-news',
   templateUrl: './news.component.html',
-  styleUrls: ['./news.component.css'],
-  animations: [
-    trigger('cardAnimation', [
-      transition(':enter', [
-        style({ transform: 'translateX(100%)', opacity: 0 }),
-        animate(
-          '2s ease-out',
-          style({ transform: 'translateX(0)', opacity: 1 })
-        ),
-      ]),
-    ]),
-  ],
+  styleUrls: ['./news.component.css']
 })
-export class NewsComponent implements OnInit {
-  news: any[] = [];
+export class NewsComponent {
+  /** Based on the screen size, switch from standard to one column per row */
+  cards = this.breakpointObserver.observe(Breakpoints.Handset).pipe(
+    map(({ matches }) => {
+      if (matches) {
+        return [
+          { title: 'Card 1', cols: 1, rows: 1 },
+          { title: 'Card 2', cols: 1, rows: 1 },
+          { title: 'Card 3', cols: 1, rows: 1 },
+          { title: 'Card 4', cols: 1, rows: 1 }
+        ];
+      }
 
-  constructor(
-    private marketAuxService: MarketAuxService,
-    private _snackBar: MatSnackBar
-  ) {}
+      return [
+        { title: 'Card 1', cols: 2, rows: 1 },
+        { title: 'Card 2', cols: 1, rows: 1 },
+        { title: 'Card 3', cols: 1, rows: 2 },
+        { title: 'Card 4', cols: 1, rows: 1 }
+      ];
+    })
+  );
 
-  async ngOnInit() {
-    try {
-      const data = await firstValueFrom(this.marketAuxService.getNews());
-      this.news = data.data;
-    } catch (error) {
-      console.log('Error fetching top news from MarketAux:', error);
-    }
-  }
-
-  openSnackBar(message: string, action: string) {
-    this._snackBar.open(message, action);
-  }
+  constructor(private breakpointObserver: BreakpointObserver) {}
 }
